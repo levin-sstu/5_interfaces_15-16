@@ -1,0 +1,26 @@
+{
+    "faculties": [
+        {
+            "name": "Факультет 1",
+            "groups": [
+                {
+                    "name": "Группа 1",
+                    "students": ["Jackson", "Adams", "Black"]
+                },
+                {
+                    "name": "Группа 2",
+                    "students": ["Green","Dean", "Ford"]
+                }
+            ]
+        },
+        {
+            "name": "Факультет 2",
+            "groups": [
+                {
+                    "name": "Группа 3",
+                    "students": ["Smith","Hughes", "Miller"]
+                }
+            ]
+        }
+    ]
+}

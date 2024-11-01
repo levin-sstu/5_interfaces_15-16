@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/recources/icons">
+        <file>resources/icons/faculty-icon.png</file>
+        <file>resources/icons/students-group.png</file>
+    </qresource>
+    <qresource prefix="/recources/json"/>
+</RCC>
